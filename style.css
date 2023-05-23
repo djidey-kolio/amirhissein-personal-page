@@ -76,7 +76,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('/image/Amir.png');
+    background: url('Amir.png');
     background-size: cover;
     background-position: center;
 }
